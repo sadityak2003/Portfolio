@@ -1,11 +1,13 @@
+import './HeroSection.css'
+
 export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
           <p className="section--title">Hey there, I'm </p>
-          <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Aditya Kumar Singh</span>
+          <h1 className="hero--title">
+           Aditya Kumar Singh
           </h1>
           <p className="hero--section-description">
             I create modern, responsive, and user-friendly web experiences

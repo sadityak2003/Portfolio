@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
+import './Navbar.css'
 
 function Navbar() {
   const [navActive, setNavActive] = useState(false);
@@ -33,7 +34,7 @@ function Navbar() {
   }, []);
 
   return (
-    <nav className={`navbar ${navActive ? "active" : ""}`}>
+    <nav className={`navbar2 ${navActive ? "active" : ""}`}>
       <div className="nav-lead">
         Portfolio.
       </div>

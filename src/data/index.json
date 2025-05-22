@@ -3,49 +3,64 @@
       {
         "id": "1",
         "src": "./img/product-chain-1.png",
-        "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "Languages",
+        "item1" : "Java",
+        "item2" : "C++",
+        "item3" : "JavaScript",
+        "item4" : ""
       },
       {
         "id": "2",
         "src": "./img/tag-1.png",
-        "title": "Back-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "Frameworks",
+        "item1" : "React",
+        "item2" : "Flutter",
+        "item3" : "Node.js",
+        "item4" : "Next.js"
       },
       {
         "id": "3",
         "src": "./img/feather-pen-2.png",
-        "title": "UI & UX Design",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "Tools",
+        "item1" : "Git, Github",
+        "item2" : "VsCode",
+        "item3" : "Firebase",
+        "item4" : ""
       },
       {
         "id": "4",
         "src": "./img/feather-pen-1.png",
-        "title": "Webflow Development",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "title": "Development",
+        "item1" : "Web Development",
+        "item2" : "App Development",
+        "item3" : "Responsive UI Design",
+        "item4" : ""
       }
     ],
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/placeholder-image.png",
-        "title": "Ahuse",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "src": "./img/p1.png",
+        "title": "prompGPT",
+        "description": "A destination to generate, save & reuse your unique prompts.",
+        "gitlink": "https://github.com/sadityak2003/prompGPT",
+        "livedemo": "https://promp-gpt.vercel.app/"
       },
       {
         "id": "2",
-        "src": "./img/placeholder-image-1.png",
-        "title": "App Dashboard",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "src": "./img/p2.png",
+        "title": "RenderMind",
+        "description": "A simple site to generate & download AI images to craft your imagination into reality.",
+        "gitlink": "https://github.com/sadityak2003/RenderMind",
+        "livedemo": "https://render-mind.vercel.app/"
       },
       {
         "id": "3",
-        "src": "./img/placeholder-image-2.png",
-        "title": "Easy Rentn",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "src": "./img/p1.png",
+        "title": "prompGPT",
+        "description": "A destination to generate, save & reuse your unique prompts.",
+        "gitlink": "https://github.com/sadityak2003/prompGPT",
+        "livedemo": "https://promp-gpt.vercel.app/"
       }
     ],
     "testimonial": [

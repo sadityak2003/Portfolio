@@ -1,11 +1,12 @@
 import data from "../../data/index.json";
+import './Testimonials.css'
 
 export default function Testimonial() {
   return (
     <section className="testimonial--section" id="testimonial">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">Clients Feedback</p>
+          <p className="section--title">Clients Feedback</p>
           <h2 className="sections--heading">Customer Feedback</h2>
         </div>
       </div>
